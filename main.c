@@ -4,6 +4,7 @@
 void vdTest()
 {
 	printf("Test Function\n");
+	int i;
 }
 
 void main()
